@@ -91,3 +91,114 @@ Examples:
 - Learn subnetting
 - Practice with tools like ping and nmap
 - Study network security basics
+🧮 Subnetting (Basic Level)
+
+Subnetting is the process of dividing a network into smaller networks (subnets).
+
+Why subnetting is important:
+
+Better network organization
+
+Improved security
+
+Reduced network congestion
+
+Example:
+
+Network: 192.168.1.0/24
+
+Subnet mask: 255.255.255.0
+
+Available IPs: 254 usable addresses
+
+I am currently learning subnetting step by step.
+
+🧭 Routing
+
+Routing is the process of choosing the best path for data to travel between networks.
+
+Routers:
+
+Connect different networks
+
+Use routing tables
+
+Decide where to send packets
+
+Example:
+
+Home router connects LAN to the Internet
+
+🔄 Switching
+
+Switches are used inside LAN networks.
+
+Functions:
+
+Use MAC addresses
+
+Send data only to the correct device
+
+Reduce collisions in the network
+
+Difference between Hub and Switch:
+
+Hub sends data to all devices
+
+Switch sends data only to the target device
+
+🔐 Network Security Basics
+
+Basic network security concepts:
+
+Firewall: controls incoming and outgoing traffic
+
+IDS (Intrusion Detection System): detects suspicious activity
+
+IPS (Intrusion Prevention System): blocks malicious traffic
+
+Security is essential to protect networks from attacks.
+
+🛠️ Basic Networking Tools
+
+Some basic tools I learned:
+
+ping – checks connectivity
+
+ipconfig / ifconfig – shows network configuration
+
+tracert / traceroute – shows packet path
+
+netstat – shows network connections
+
+These tools are important for troubleshooting and security analysis.
+
+🌍 DNS (Domain Name System)
+
+DNS translates domain names into IP addresses.
+
+Example:
+
+google.com → 142.250.x.x
+
+Without DNS, users would need to remember IP addresses.
+
+🧠 What I Understand So Far
+
+How devices communicate in a network
+
+Role of routers and switches
+
+Importance of network security
+
+How DNS and IP addressing work together
+
+🚀 Next Networking Goals
+
+Learn subnetting deeply
+
+Understand NAT
+
+Practice network scanning in legal labs
+
+Learn about VPN basics
